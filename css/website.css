@@ -1,0 +1,15 @@
+.mainColumnWebsite {
+    padding: 0 20%;
+    background-image: url(../src/image/bgWebsite.jpg);
+    background-repeat: repeat;
+}
+
+h2 {
+    text-align: center;
+}
+
+table, td, th {
+    margin: auto;
+    border: 1px #000000 solid;
+    font-weight: bold;
+}

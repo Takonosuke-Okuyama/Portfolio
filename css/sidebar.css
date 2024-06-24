@@ -1,0 +1,47 @@
+.sidebar>ul {
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+
+.sideLink::marker {
+    font-size: 3.3rem;
+    line-height: 4rem;
+}
+
+.sideLink {
+    position: relative;
+}
+
+.sideLink a {
+    position: absolute;
+    top: 1.6rem;
+    left: -0.7rem;
+}
+
+.sideLink0 {
+    color: #ffcccc;
+}
+
+.sideLink1 {
+    color: #00ff00;
+}
+
+.sideLink2 {
+    color: #33ffff;
+}
+
+.sideLink3 {
+    color: #0099ff;
+}
+
+.sideLink4 {
+    color: #0000ff;
+}
+
+.sideLink5 {
+    color: #333399;
+}
+
+.sideLink6 {
+    color: #cc00cc;
+}
