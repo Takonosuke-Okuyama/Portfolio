@@ -6,6 +6,8 @@
 .sideLink::marker {
     font-size: 3.3rem;
     /* line-height: 4rem; */
+    padding-top: 50%;
+    padding-bottom: 50%;
 }
 
 .sideLink {
