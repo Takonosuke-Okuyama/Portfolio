@@ -1,6 +1,6 @@
 .mainColumnLinebot {
     padding: 0 5%;
-    height: 100vh;
+    min-height: 100vh;
     background-image: url(../src/image/bgLinebot.jpg);
     background-repeat: repeat;
 }
