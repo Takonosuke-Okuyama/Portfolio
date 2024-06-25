@@ -1,6 +1,6 @@
 .mainColumnWebsite {
     padding: 0 5%;
-    min-height: 100vh;
+    min-height: 100svh;
     background-image: url(../src/image/bgWebsite.jpg);
     background-repeat: repeat;
 }
