@@ -9,16 +9,28 @@ h2 {
     text-align: center;
 }
 
-table, td {
+table {
     margin: auto;
     border: 1px #000000 solid;
     font-weight: bold;
     table-layout: fixed;  /* table要素に指定することで、幅を固定 */
-    width: 100%;
+    width: 90%;
+}
+
+table td {
+    text-align: center;
+    border: 1px #000000 solid;
+    font-weight: bold;
+    width: 150px;
 }
 
 table th{
     border: 1px #000000 solid;
     font-weight: bold;        /* 幅を指定した要素だけ固定される。他は等倍の可変 */
-    width: 145px;
+    width: 25%;
+}
+
+.temari-picture {
+    width: 125px;
+    height: 125px;
 }
