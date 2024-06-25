@@ -1,5 +1,6 @@
 .mainColumnTop {
     padding: 0 0;
+    height: 100vh;
     background-image: url(../src/image/bgTop.jpg);
     background-repeat: repeat;
 }
